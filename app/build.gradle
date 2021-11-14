@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.ducksoup.racepace"
-        minSdkVersion 28
+        minSdkVersion 30
         targetSdkVersion 31
         versionCode 1
         versionName "1.0"
